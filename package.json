@@ -1,7 +1,7 @@
 {
   "name": "@density/ts-loader",
   "version": "8.3.1",
-  "description": "TypeScript loader for webpack",
+  "description": "Fork of TypeScript loader for webpack",
   "main": "index.js",
   "types": "dist",
   "scripts": {
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TypeStrong/ts-loader.git"
+    "url": "https://github.com/DensityCo/ts-loader.git"
   },
   "keywords": [
     "ts-loader",
@@ -50,9 +50,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TypeStrong/ts-loader/issues"
+    "url": "https://github.com/DensityCo/ts-loader/issues"
   },
-  "homepage": "https://github.com/TypeStrong/ts-loader",
+  "homepage": "https://github.com/DensityCo/ts-loader",
   "dependencies": {
     "chalk": "^4.1.0",
     "enhanced-resolve": "^4.0.0",
